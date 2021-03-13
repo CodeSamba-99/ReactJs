@@ -8,3 +8,8 @@ export {
     purchaseInit,
     fetchOrders
 } from '../actions/order';
+export {
+    auth,
+    authLogOut,
+    setAuthRedirectPath
+} from '../actions/auth';
