@@ -1,4 +1,3 @@
-import { act } from '@testing-library/react';
 import * as actionTypes from '../actions/actionTypes';
 import { updatedObject } from '../Utility';
 
